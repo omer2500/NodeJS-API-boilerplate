@@ -1,0 +1,5 @@
+language: node
+before_install:
+  - npm i
+scirpt:
+  - npm run test
